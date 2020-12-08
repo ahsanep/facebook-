@@ -11,3 +11,33 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.image1
+{
+  width: 30px;
+  height: 30px;
+  border-radius: 20px;
+}
+.bg
+{
+  background-color: black;
+
+}
+.btn
+{
+  color: whitesmoke;
+  background-color: black;
+  padding: 5px;
+  margin: 15px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.name
+{
+ 
+  margin-left: 40px;
+  margin-top: -30px;
+}
+.tym{
+margin-left: 90px;
+margin-top: -38px;
+
+}
